@@ -73,7 +73,14 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MaDhuManodya/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MaDhuManodya.MaDhuManodya&left_color=aqua&right_color=aquamarine"  />
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/MaDhuManodya/MaDhuManodya/output/snake.svg" alt="Snake animation" />
+
+###
