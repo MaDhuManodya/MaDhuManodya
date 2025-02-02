@@ -77,8 +77,3 @@
   <img src="https://profile-counter.glitch.me/MaDhuManodya/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/MaDhuManodya/MaDhuManodya/output/snake.svg" alt="Snake animation" />
-
-###
